@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;AAIA","sources":["src/style.css"],"sourcesContent":["body {\r\n  padding: 20px;\r\n}\r\n\r\nbutton {\r\n  margin: 10px 5px;\r\n  padding: 10px 15px;\r\n  font-size: 16px;\r\n}\r\n"],"names":[],"version":3,"file":"home-work-14.4.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
